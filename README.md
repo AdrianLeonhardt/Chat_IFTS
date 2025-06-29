@@ -32,6 +32,6 @@ Este proyecto es una aplicación de chat en tiempo real construida con:
 3. Construí y levantá los servicios con Docker Compose:
    ```bash
    docker-compose up --build
-http://localhost:3000
 
-4. Utiliza el navegador para comenzar con el chat.
+
+4. Utiliza el navegador con esta url: http://localhost:3000 para comenzar con el chat.
