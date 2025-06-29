@@ -34,4 +34,3 @@ Este proyecto es una aplicación de chat en tiempo real construida con:
    docker-compose up --build
 http://localhost:3000
 4. Utiliza el navegador para comenzar con el chat.
-# Chat_IFTS
